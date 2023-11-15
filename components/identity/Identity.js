@@ -83,7 +83,6 @@ const Identity = () => {
           </p>
         </div>
 
-        {/* foto Ragil nisa */}
         <div
           ref={fotoRef}
           className="relative flex justify-center items-center gap-0 md:gap-8 py-0 md:py-10 w-fit mx-auto"
@@ -109,7 +108,7 @@ const Identity = () => {
           <div className="foto-kita scale-75 md:scale-100 w-[300px] lg:w-[350px]">
             <Image
               src="/images/identity/x.jpg"
-              alt="picture of Ragil and Khoiriah"
+              alt="picture of Kurniawan and Khoiriah"
               width="600px"
               height="733px"
               layout="responsive"
@@ -144,7 +143,6 @@ const Identity = () => {
           </div>
         </div>
 
-        {/* identitas Ragil nisa */}
         <div className="flex flex-col items-center justify-center text-center gap-4">
           <div className="pop-up block md:hidden w-[90%]">
             <h2 className="font-dm-serif text-xl">

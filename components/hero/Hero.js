@@ -68,7 +68,6 @@ const Hero = ({ guestName, isInvited }) => {
     <section ref={heroRef} id="hero" className="relative">
       <div className="custom-container">
         <div className="h-screen flex flex-col items-center justify-center gap-36 md:gap-28">
-          {/* nama nisa Ragil dan ornamen */}
           <div className="relative ">
             {!isInvited && (
               <h2 className="content font-sacramento text-3xl md:text-4xl text-center mb-6">
@@ -78,7 +77,7 @@ const Hero = ({ guestName, isInvited }) => {
             <div className="font-yaseva flex items-center gap-2 leading-8 md:leading-10 text-4xl md:text-5xl">
               <h1 className="flex flex-col items-end">
                 <span className="bride">Khoiriah</span>
-                <span className="bride">Ragil</span>
+                <span className="bride">Kurniawan</span>
               </h1>
               <h1>
                 <span className="and">&#38;</span>
