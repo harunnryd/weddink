@@ -64,8 +64,8 @@ export default function Home({ listUcapan, guestName, isInvited }) {
   return (
     <>
       <Head>
-        <title>Khoiriah & Kurniawan Wedding Invitation</title>
-        <meta name="description" content="Khoiriah and Ragil Wedding Invitation" />
+        <title>Khoiriyah & Kurniawan Wedding Invitation</title>
+        <meta name="description" content="Khoiriyah and Ragil Wedding Invitation" />
         <link
           rel="apple-touch-icon"
           sizes="180x180"

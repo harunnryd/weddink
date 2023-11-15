@@ -62,7 +62,7 @@ const Gift = () => {
         <div className="flex flex-col md:flex-row md:justify-center md:items-start gap-24">
           <Rekening
             noRek="761686708400"
-            behalfOf="Khoiriah"
+            behalfOf="Khoiriyah"
             bank="cimb"
             width="310px"
             height="100px"

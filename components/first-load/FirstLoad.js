@@ -72,9 +72,9 @@ const FirstLoad = ({ updateFirstLoad, onPlayMusic, guestName, isInvited }) => {
             </>
           )}
           {!isInvited && (
-            <div className="font-yaseva flex items-center gap-2 leading-8 md:leading-10 text-4xl md:text-5xl">
+            <div className="font-yaseva flex items-center gap-2 leading-8 md:leading-10 text-4xl md:text4xl">
               <h1 className="flex flex-col items-end">
-                <span className="bride">Khoiriah</span>
+                <span className="bride">Khoiriyah</span>
                 <span className="bride">Kurniawan</span>
               </h1>
               <h1>
